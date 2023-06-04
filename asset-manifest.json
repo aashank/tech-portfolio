@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tech-portfolio/static/css/main.d91e0336.css",
+    "main.js": "/tech-portfolio/static/js/main.27bdc52a.js",
+    "static/js/787.749b4a44.chunk.js": "/tech-portfolio/static/js/787.749b4a44.chunk.js",
+    "index.html": "/tech-portfolio/index.html",
+    "main.d91e0336.css.map": "/tech-portfolio/static/css/main.d91e0336.css.map",
+    "main.27bdc52a.js.map": "/tech-portfolio/static/js/main.27bdc52a.js.map",
+    "787.749b4a44.chunk.js.map": "/tech-portfolio/static/js/787.749b4a44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d91e0336.css",
+    "static/js/main.27bdc52a.js"
+  ]
+}
